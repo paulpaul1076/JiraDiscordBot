@@ -1,7 +1,7 @@
 package com.pavelorekhov;
 
 public class DiscordUtils {
-    public static final String TOKEN = "NDYxNjQzNTk5NjgwMTEwNjAy.DhWStg.fnIipXMVoZeBrWS6SZFAy3r415c";
+    public static final String TOKEN = "INSERT_YOUR_TOKEN_HERE";
 
     private DiscordUtils() {
 
